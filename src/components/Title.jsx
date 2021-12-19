@@ -11,8 +11,8 @@ const Title = () => {
   const classes = useStyles();
   return (
     <Container maxWidth="lg">
-      <Typography variant="h5" component="h1" color="textPrimary" gutterBottom>
-        Firegram
+      <Typography variant="h5" component="h1" color="primary" gutterBottom>
+        Muka Buku
       </Typography>
       <Container maxWidth="sm" className={classes.title}>
         <Typography
